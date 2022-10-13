@@ -1,0 +1,6 @@
+selected resource name:		AS_DataMigration_Extract_CopyComand_Azure_VM_v1_File
+selected resource type:		pipeline
+factory name:			adfedwfitsandbox1
+factory location:		eastus2
+subscription id:		40fb0dac-7090-48ba-8b98-b1298e2106d8
+time of download (UTC):		Fri, 26 Aug 2022 05:44:34 GMT

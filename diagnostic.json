@@ -1,0 +1,22 @@
+{
+    "now": "2022-08-26T05:44:34.074Z",
+    "perfNow": 3299668.6,
+    "diagnosticCorrelation": "46c0dd72-be7d-457c-a1d7-b8e7c3444ec6",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.082322.3",
+        "environmentType": 3,
+        "resourceName": "adfedwfitsandbox1",
+        "resourceRegion": "eastus2",
+        "resourceGroup": "RGDW-FIT-POC",
+        "subscriptionId": "40fb0dac-7090-48ba-8b98-b1298e2106d8",
+        "sessionId": "V2Sjv",
+        "operationId": "/J25",
+        "gitType": "live"
+    },
+    "additionalInfo": {
+        "selectedResource": "AS_DataMigration_Extract_CopyComand_Azure_VM_v1_File",
+        "selectedResourceType": "pipeline"
+    }
+}
