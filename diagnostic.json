@@ -1,22 +1,22 @@
 {
-    "now": "2022-08-26T05:44:34.074Z",
-    "perfNow": 3299668.6,
-    "diagnosticCorrelation": "46c0dd72-be7d-457c-a1d7-b8e7c3444ec6",
+    "now": "2022-05-19T01:29:50.423Z",
+    "perfNow": 13871994.100000001,
+    "diagnosticCorrelation": "b7498b1b-d0a1-485c-b3fc-c3647054d16a",
     "source": "DownloadSupportFiles",
     "environment": {
         "productName": "adf",
-        "buildVersion": "1.0.082322.3",
+        "buildVersion": "1.0.051022.16",
         "environmentType": 3,
         "resourceName": "adfedwfitsandbox1",
         "resourceRegion": "eastus2",
         "resourceGroup": "RGDW-FIT-POC",
         "subscriptionId": "40fb0dac-7090-48ba-8b98-b1298e2106d8",
-        "sessionId": "V2Sjv",
-        "operationId": "/J25",
+        "sessionId": "mE7wC",
+        "operationId": "rVdDl",
         "gitType": "live"
     },
     "additionalInfo": {
-        "selectedResource": "AS_DataMigration_Extract_CopyComand_Azure_VM_v1_File",
+        "selectedResource": "PL_DMVMT_Gen_Outgoing_File_Copy",
         "selectedResourceType": "pipeline"
     }
 }

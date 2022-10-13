@@ -1,6 +1,0 @@
-selected resource name:		PL_DMVMT_Gen_Outgoing_File_Copy
-selected resource type:		pipeline
-factory name:			adfedwfitsandbox1
-factory location:		eastus2
-subscription id:		40fb0dac-7090-48ba-8b98-b1298e2106d8
-time of download (UTC):		Thu, 19 May 2022 01:29:50 GMT
